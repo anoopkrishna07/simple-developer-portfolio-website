@@ -4,6 +4,7 @@ const userData = {
   designation: "Front-End Developer",
   avatarUrl: "/avatar.png",
   email: "anoopkrishna2014@gmail.com",
+  whatsapp: "+917907855494",
   phone: "+91 7907855494",
   address: "Kollam, Kerala, India.",
   projects: [
